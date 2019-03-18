@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ea5fe5050450e46b696fbcff74cf3370, type: 3}
-  m_Name: 3D-Thingamabob
+  m_Name: Referencer
   m_EditorClassIdentifier: 
-  objectName: Weird-3D-Thingamabob
-  referenceObject: {fileID: 102900000, guid: 4d7afa3c0072c4cc29fdee5492f6ffc1, type: 3}
+  objectName: ReferenceObj
+  referenceObject: {fileID: 102900000, guid: af7a2f085f131478a9eb7439f136b78f, type: 3}
