@@ -398,7 +398,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   referenceObjectAsset: {fileID: 11400000, guid: e19bf88186ac942868db78225b734e9c,
     type: 2}
-  prefabToGenerate: {fileID: 552408076486431113, guid: 49b971f66e35d43d4a9b41e46febb0c7,
+  prefabToGenerate: {fileID: 552408076486431113, guid: 587291a2fd09d4dcab1255abaa2da445,
     type: 3}
 --- !u!4 &495387809
 Transform:
